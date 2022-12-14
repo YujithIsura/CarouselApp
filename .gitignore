@@ -1,0 +1,31 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# react dependencies
+carousel/node_modules
+carousel/package-lock.json
+carousel/.pnp
+carousel/.pnp.js
+carousel/.env
+
+# production
+carousel/build
+
+# misc
+carousel/.DS_Store
+carousel/.env.local
+carousel/.env.development.local
+carousel/.env.test.local
+carousel/.env.production.local
+
+carousel/npm-debug.log*
+carousel/yarn-debug.log*
+carousel/yarn-error.log*
+
+# node dependencies
+server/package-lock.json
+server/node_modules
+server/*.log*
+server/!**/.gitkeep
+server/npm-debug.log*
+
+

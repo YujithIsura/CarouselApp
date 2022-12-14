@@ -1,0 +1,55 @@
+{
+    "slides": [
+      {
+        "image": "http://localhost:3600/images/filippo-bortolotto-C229nrkAgUs-unsplash.jpeg",
+        "title": "Strong mask",
+        "subTitle": "First text"
+      },
+      {
+        "image": "http://localhost:3600/images/mark-s-WOCYqNN7aj4-unsplash.jpeg",
+        "title": "Strong mask",
+        "subTitle": "Second text"
+      },
+      {
+        "image": "http://localhost:3600/images/mailchimp-Vc2dD4l57og-unsplash.jpeg",
+        "title": "Strong mask",
+        "subTitle": "Third text"
+      },
+      {
+        "image": "http://localhost:3600/images/microsoft-365-oUbzU87d1Gc-unsplash.jpeg",
+        "title": "Strong mask",
+        "subTitle": "Forth text"
+      },
+      {
+        "image": "http://localhost:3600/images/w3-maserekt-bAsGj7yV7_8-unsplash.jpeg",
+        "title": "Strong mask",
+        "subTitle": "Fifth text"
+      },
+      {
+        "image": "http://localhost:3600/images/fatma-sarigul-Tgk1ZVax3Os-unsplash.jpeg",
+        "title": "Strong mask",
+        "subTitle": "Sixth text"
+      },
+      {
+        "image": "http://localhost:3600/images/parker-coffman-5sqLsjtTnNI-unsplash.jpeg",
+        "title": "Strong mask",
+        "subTitle": "Seventh text"
+      },
+      {
+        "image": "http://localhost:3600/images/max-burgi-duxCsFGyT2Q-unsplash.jpeg",
+        "title": "Strong mask",
+        "subTitle": "Eighth text"
+      },
+      {
+        "image": "http://localhost:3600/images/op23-axbsJonJBKQ-unsplash.jpeg",
+        "title": "Strong mask",
+        "subTitle": "Ningth text"
+      },
+      {
+        "image": "http://localhost:3600/images/windows-dD4QVRywr1w-unsplash.jpeg",
+        "title": "Strong mask",
+        "subTitle": "Tenth text"
+      }
+    ]
+  }
+
