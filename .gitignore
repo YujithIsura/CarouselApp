@@ -16,6 +16,7 @@ carousel/.env.local
 carousel/.env.development.local
 carousel/.env.test.local
 carousel/.env.production.local
+.DS_Store
 
 carousel/npm-debug.log*
 carousel/yarn-debug.log*
